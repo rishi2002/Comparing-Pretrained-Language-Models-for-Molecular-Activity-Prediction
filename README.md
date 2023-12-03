@@ -14,9 +14,9 @@ exhibit favourable pharmacological characteristics.<br>
 factor considered in Lipinski’s Rule of Five.<br>
 • RO5 Violations The number of Lipinski’s Rule of Five violations. Lipinski’s rule
 of five is a widely used rule of thumb in medicinal chemistry to evaluate drug likeness
-or oral drugs.<be>
+or oral drugs.<br>
 <br>
-The implemented models are <br>
+The implemented models are: <br>
 • RoBERTa randomly initialized, 125 million parameters <br>
 • RoBERTa pre-trained, 125 million parameters<br>
 • ChemBERTa pre-trained on PubChem 1M, 85 million parameters<br>
